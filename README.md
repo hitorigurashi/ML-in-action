@@ -1,4 +1,4 @@
 # ML-in-action
-knn
-bayes
-logistic
+#knn
+#bayes
+#logistic
