@@ -3,6 +3,5 @@
 ## 2.bayes
 ## 3.decision tree
 ## 4.logistic
-## 5.svm
-## 6.adaBoost
-## 7.regression
+## 5.regression
+## 6.SVD
